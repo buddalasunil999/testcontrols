@@ -177,6 +177,11 @@
     <Content Include="bower_components\angular-animate\bower.json" />
     <Content Include="bower_components\angular-animate\package.json" />
     <Content Include="bower_components\angular-animate\README.md" />
+    <Content Include="fonts\fontawesome-webfont.eot" />
+    <Content Include="fonts\fontawesome-webfont.ttf" />
+    <Content Include="fonts\fontawesome-webfont.woff" />
+    <Content Include="fonts\fontawesome-webfont.woff2" />
+    <Content Include="fonts\FontAwesome.otf" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -313,8 +318,12 @@
     <Content Include="bower_components\jquery\src\var\support.js" />
     <Content Include="bower_components\jquery\src\var\toString.js" />
     <Content Include="bower_components\jquery\src\wrap.js" />
+    <Content Include="font-awesome.min.css" />
+    <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="index.html" />
+    <Content Include="main.css" />
     <Content Include="MultiselectPlugin.html" />
+    <Content Include="Tabs.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
